@@ -1,5 +1,5 @@
 ### Hello there 👋
 
-I'm Renaro Santos, a software Engineering student from Brazil. Thanks you for visiting my github profile.
+I'm Renaro Matos, a software Engineering student from Brazil. Thanks you for visiting my github profile.
 
 You can also find me on: [LinkedIn](https://www.linkedin.com/in/renaro-matos-004b5119b/) or [Lattes](http://lattes.cnpq.br/5359329426940508)
